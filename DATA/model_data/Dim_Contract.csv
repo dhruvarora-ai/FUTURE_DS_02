@@ -1,0 +1,4 @@
+Contract,SortOrder,RiskTier
+Month-to-month,1,High Risk
+One year,2,Medium Risk
+Two year,3,Low Risk
